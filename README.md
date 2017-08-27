@@ -12,7 +12,7 @@ The current repository contains FlsUtility class for providing a simple and conv
 
 ## Examples
 
-A few next examples show how quick and eazy you can handle CRUD operation security
+A few next examples show how quick you can handle CRUD operation security
 
 ### Accessible
 
